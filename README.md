@@ -81,7 +81,9 @@ Created an interactive dashboard featuring:
 
 ## 📸 Dashboard Preview
 
-![Customer Behavior Dashboard](Screenshot 2026-08-04 221412.png)
+## 📸 Dashboard Preview
+
+![Customer Behavior Dashboard](dashboard.png)
 ## 📈 Results
 
 The analysis provided valuable insights into customer purchasing behavior, revenue trends, review ratings, and category performance. The interactive Power BI dashboard enables users to explore the data efficiently and supports better business decision-making.
